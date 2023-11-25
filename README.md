@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning more about programming 
 - 🌱 I’m currently learning beginner website design
 - 💞️ I’m looking to collaborate on a Google Chrome extension!
-- 📫 How to reach me discord --> curtkoala
+- 📫 How to reach me: discord --> curtkoala
