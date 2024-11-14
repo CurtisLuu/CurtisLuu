@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Curtis</h1>
+<h1 align="center">Hi 👋, I'm Curtis!</h1>
 <h3 align="center">A passionate student interested in Cybersecurity and Machine Learning</h3>
 
 <h3 align="left">Connect with me:</h3>
