@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Curtis!</h1>
-<h3 align="center">A passionate student at the University of Maryland interested in Cybersecurity, Machine Learning, and Quantitative Finance</h3>
+<h3 align="center">A passionate Freshman at the University of Maryland interested in Cybersecurity, Machine Learning, and Quantitative Finance</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
