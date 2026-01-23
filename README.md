@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Curtis!</h1>
-<h3 align="center">Freshman at the University of Maryland interested in Software Engineering, Machine Learning, and Quantitative Finance</h3>
+<h3 align="center">Student at the University of Maryland interested in Software Engineering, Machine Learning, and Quantitative Finance</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
