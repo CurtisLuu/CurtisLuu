@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Curtis Lu 👋</h1>
+<h1 align="center">Hi, I'm Curtis</h1>
 
 <p align="center">
 Software, Data, and AI Engineering | CS @ University of Maryland
