@@ -19,7 +19,7 @@ I'm a Computer Science student at the University of Maryland, currently internin
 
 - **Software Engineering** — data pipelines, backend systems, full-stack development
 - **Machine Learning** — applied ML/DL, from classical models to neural networks
-- **Quantitative Trading & Research** — options pricing, market microstructure, statistical modeling
+- **Quantitative Trading & Research**
 
 ## Featured Projects
 
