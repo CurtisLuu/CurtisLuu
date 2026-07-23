@@ -6,7 +6,7 @@ Software, Data, and AI Engineering | CS @ University of Maryland
 
 <p align="center">
   <a href="https://www.linkedin.com/in/curtis-h-lu"><img src="https://img.shields.io/badge/LinkedIn-Curtis%20Lu-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your.email@umd.edu"><img src="https://img.shields.io/badge/Email-your.email%40umd.edu-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:your.email@umd.edu"><img src="https://img.shields.io/badge/Email-clu12@terpmail.umd.edu%40umd.edu-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
