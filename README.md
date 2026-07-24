@@ -13,13 +13,12 @@ Software, Data, and AI Engineering | CS @ University of Maryland
 
 ## About Me
 
-I'm a Computer Science student at the University of Maryland, currently interning as a Software Engineer at **Verition Fund Management** on the long/short equities strategy, where I build data pipelines and internal tooling. I'm actively pursuing **Software Engineering and Quantitative Trading/Research roles**.
+I'm a Computer Science student at the University of Maryland, currently interning as a Software Engineer at **Verition Fund Management** on the long/short equities strategy, where I build data pipelines and internal tooling. I'm actively pursuing **AI, Data, Software, and Machine Learning Engineering roles**.
 
 ## Focus Areas
 
 - **Software Engineering** — data pipelines, backend systems, full-stack development
 - **Machine Learning** — applied ML/DL, from classical models to neural networks
-- **Quantitative Trading & Research**
 
 ## Featured Projects
 
