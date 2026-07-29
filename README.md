@@ -25,7 +25,7 @@ I'm a Computer Science student at the University of Maryland, currently internin
 | Project | Description | Stack |
 |---|---|---|
 | **[Kalshi Trading Bot]** | Prediction-market trading bot using Turnbull-Wakeman Asian options pricing, TWAP/GBM dynamics, and a microstructure sentiment filter (OBI, TFI, mid-price drift) | Python |
-| **[Clarify]** | Forensic knowledge graph tool — 1st place, Bitcamp 2026 | FastAPI, Next.js, Neo4j |
+| **[Clarify]** | Forensic knowledge graph tool — Finalist, Bitcamp 2026 Best Digital Forensics Hack | FastAPI, Next.js, Neo4j |
 | **[Rubik's Cube Trainer](https://github.com/CurtisLuu/Scramblr)** | 3D pattern-practice web app built for a competitive speedsolver friend | Three.js |
 | **[KPMG RAG Agent](https://github.com/CurtisLuu/kpmg_internship_project)** | RAG-based compliance agent referencing large regulatory documents via chunking/embedding | Python |
 
