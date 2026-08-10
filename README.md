@@ -24,7 +24,7 @@ I'm a Computer Science student at the University of Maryland, currently internin
 
 | Project | Description | Stack |
 |---|---|---|
-| **[RotBlocker](https://github.com/CurtisLuu/RotBlocker)** | Phone app that blocks short form content off your phone while preserving messaging and social networking aspects. | Typescript, Swift, Javascript |
+| **[Please Focus!](https://github.com/CurtisLuu/Please-Focus)** | Phone app that blocks short form content off your phone while preserving messaging and social networking aspects. | Typescript, Swift, Javascript |
 | **[Clarify](https://github.com/parthm667/clarify)** | Forensic knowledge graph tool — Finalist, Bitcamp 2026 Best Digital Forensics Hack | FastAPI, Next.js, Neo4j |
 | **[Rubik's Cube Trainer](https://github.com/CurtisLuu/Scramblr)** | 3D pattern-practice web app built for a competitive speedsolver friend | Three.js |
 | **[KPMG RAG Agent](https://github.com/CurtisLuu/kpmg_internship_project)** | RAG-based compliance agent referencing large regulatory documents via chunking/embedding | Python |
