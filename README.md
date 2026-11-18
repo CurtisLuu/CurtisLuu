@@ -15,7 +15,7 @@ Data Infrastructure, ML Systems, and C++ | CS @ University of Maryland
 
 I'm a Computer Science student at the University of Maryland, passionate about building data infrastructure and automations that make the user and developer experience better.
 
-Last summer at **Verition Fund Management**, I worked on the long/short equities strategy, building data pipelines with Airflow, S3, and Snowflake to ingest Japanese equities data and analyst notes. Outside of work, I'm building trading infrastructure for **Apex Fund**, UMD's student investment fund, so research teams can backtest on and trade on Kalshi with the same code.
+Last summer at **Verition Fund Management**, I worked on the long/short equities strategy, building data pipelines with Airflow, S3, and Snowflake. Outside of work, I'm building trading infrastructure for **Apex Fund**, UMD's student investment fund, so research teams can backtest on and trade on Kalshi with the same code.
 
 I'm most excited about **data infrastructure, ML systems, and C++ / systems engineering**, where the underlying infrastructure plays a big role in the user and developer experience. I'm currently learning more C++ and systems.
 
