@@ -50,7 +50,7 @@ I'm most excited about **data infrastructure, ML systems, and C++ / systems engi
 
 ## Connect
 
-- 🌐 Portfolio: [github.com/CurtisLuu/portfolio](https://github.com/CurtisLuu/portfolio)
+- 🌐 Website: [curtislu.vercel.app](https://curtislu.vercel.app/)
 - 💼 LinkedIn: [linkedin.com/in/curtis-h-lu](https://www.linkedin.com/in/curtis-h-lu)
 - 📧 Email: clu12@terpmail.umd.edu
 - 🎓 University of Maryland, College Park
